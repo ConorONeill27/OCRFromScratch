@@ -1,0 +1,1 @@
+A cool OCR AI with no tutorials
